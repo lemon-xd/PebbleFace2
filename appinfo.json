@@ -1,0 +1,107 @@
+{
+    "appKeys": {
+        "icon": 0,
+        "location": 2,
+        "temperature": 1
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "Lemon xD",
+    "longName": "4Cells tribute 12hrs",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/background.png",
+                "name": "background",
+                "type": "png"
+            },
+            {
+                "file": "images/3.png",
+                "name": "CLEAR_NIGHT",
+                "type": "png"
+            },
+            {
+                "file": "images/2.png",
+                "name": "CLEAR_DAY",
+                "type": "png"
+            },
+            {
+                "file": "images/6.png",
+                "name": "WINDY",
+                "type": "png"
+            },
+            {
+                "file": "images/7.png",
+                "name": "COLD",
+                "type": "png"
+            },
+            {
+                "file": "images/8.png",
+                "name": "PARTLY_CLOUDY_DAY",
+                "type": "png"
+            },
+            {
+                "file": "images/9.png",
+                "name": "PARTLY_CLOUDY_NIGHT",
+                "type": "png"
+            },
+            {
+                "file": "images/13.png",
+                "name": "HAZE",
+                "type": "png"
+            },
+            {
+                "file": "images/14.png",
+                "name": "CLOUD",
+                "type": "png"
+            },
+            {
+                "file": "images/18.png",
+                "name": "RAIN",
+                "type": "png"
+            },
+            {
+                "file": "images/23.png",
+                "name": "SNOW",
+                "type": "png"
+            },
+            {
+                "file": "images/24.png",
+                "name": "HAIL",
+                "type": "png"
+            },
+            {
+                "file": "images/25.png",
+                "name": "CLOUDY",
+                "type": "png"
+            },
+            {
+                "file": "images/27.png",
+                "name": "STORM",
+                "type": "png"
+            },
+            {
+                "file": "images/45.png",
+                "name": "NA",
+                "type": "png"
+            },
+            {
+                "file": "images/index_small.png",
+                "menuIcon": true,
+                "name": "index_small",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "4Cells 12hrs",
+    "uuid": "6bf7e267-dc31-42fe-9854-2abd6ea087ce",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
